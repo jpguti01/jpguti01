@@ -39,7 +39,7 @@ Git, GitHub, GitHub Actions, VS Code, testes automatizados, documentação técn
 
 ### Apexy
 
-Plataforma web voltada para experiências digitais inteligentes, com uso de IA, integrações, autenticação, banco de dados e arquitetura moderna.
+[Apexy Portfolio](https://github.com/jpguti01/apexy-portfolio) é uma versão pública e sanitizada de uma plataforma web voltada para experiências digitais inteligentes, com uso de integrações, autenticação, banco de dados e arquitetura moderna.
 
 Principais pontos técnicos:
 
@@ -48,8 +48,19 @@ Principais pontos técnicos:
 - Organização de arquitetura para produto real
 - Cuidados com segurança, variáveis de ambiente e dados sensíveis
 - Testes, documentação e processo de revisão para versão pública de portfólio
+- Cuidados com privacidade, sanitização de dados e publicação segura no GitHub
 
-> Repositório de portfólio em preparação.
+### Agent Skills & Segurança em IA
+
+Também mantenho e estudo repositórios ligados a **Agent Skills**, **automação com LLMs**, **segurança para agentes** e ferramentas de desenvolvimento assistido por IA.
+
+Repositórios em destaque:
+
+- [skills](https://github.com/jpguti01/skills)
+- [security-skill](https://github.com/jpguti01/security-skill)
+- [claude-mem](https://github.com/jpguti01/claude-mem)
+- [openclaude](https://github.com/jpguti01/openclaude)
+- [design-motion-principles](https://github.com/jpguti01/design-motion-principles)
 
 ---
 
