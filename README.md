@@ -37,6 +37,14 @@ Git, GitHub, GitHub Actions, VS Code, testes automatizados, documentação técn
 
 ## 🧩 Projetos em Destaque
 
+### Agent Security Studio
+
+[Agent Security Studio](https://github.com/jpguti01/agent-security-studio) é meu projeto flagship de **AI Engineering**: um estúdio web para testar agentes antes de produção, combinando segurança de LLMs, aprovação de ferramentas, avaliação RAG, traces e auditoria de repositórios GitHub.
+
+- Demo pública: [jpguti01.github.io/agent-security-studio](https://jpguti01.github.io/agent-security-studio/)
+- Stack: **React**, **TypeScript**, **Vite**, **Vitest**, **GitHub Actions** e **GitHub Pages**
+- Foco: agent security, prompt injection, tool calling, RAG evaluation, observability e portfólio profissional
+
 ### Apexy
 
 [Apexy Portfolio](https://github.com/jpguti01/apexy-portfolio) é uma versão pública e sanitizada de uma plataforma web voltada para experiências digitais inteligentes, com uso de integrações, autenticação, banco de dados e arquitetura moderna.
@@ -54,7 +62,7 @@ Principais pontos técnicos:
 
 Além da Apexy, estou construindo uma linha de projetos autorais focados em **AI Engineering**, **segurança de LLMs**, **agentes**, **MCP**, **RAG** e **avaliação automatizada**.
 
-Repositórios principais:
+Repositórios principais de apoio:
 
 - [llm-security-playbook](https://github.com/jpguti01/llm-security-playbook): laboratório prático de segurança para LLMs e agentes, com checks de prompt injection, uso inseguro de ferramentas, vazamento de dados e CI.
 - [ai-agent-lab](https://github.com/jpguti01/ai-agent-lab): laboratório de agentes com tool calling, aprovação humana simulada, traces estruturados e testes.
