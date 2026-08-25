@@ -50,17 +50,19 @@ Principais pontos técnicos:
 - Testes, documentação e processo de revisão para versão pública de portfólio
 - Cuidados com privacidade, sanitização de dados e publicação segura no GitHub
 
-### Agent Skills & Segurança em IA
+### Projetos Autorais de IA
 
-Também mantenho e estudo repositórios ligados a **Agent Skills**, **automação com LLMs**, **segurança para agentes** e ferramentas de desenvolvimento assistido por IA.
+Além da Apexy, estou construindo uma linha de projetos autorais focados em **AI Engineering**, **segurança de LLMs**, **agentes**, **MCP**, **RAG** e **avaliação automatizada**.
 
-Repositórios em destaque:
+Repositórios principais:
 
-- [skills](https://github.com/jpguti01/skills)
-- [security-skill](https://github.com/jpguti01/security-skill)
-- [claude-mem](https://github.com/jpguti01/claude-mem)
-- [openclaude](https://github.com/jpguti01/openclaude)
-- [design-motion-principles](https://github.com/jpguti01/design-motion-principles)
+- [llm-security-playbook](https://github.com/jpguti01/llm-security-playbook): laboratório prático de segurança para LLMs e agentes, com checks de prompt injection, uso inseguro de ferramentas, vazamento de dados e CI.
+- [ai-agent-lab](https://github.com/jpguti01/ai-agent-lab): laboratório de agentes com tool calling, aprovação humana simulada, traces estruturados e testes.
+- [mcp-github-portfolio-auditor](https://github.com/jpguti01/mcp-github-portfolio-auditor): auditor de portfólio GitHub preparado para MCP, analisando README, topics, licença, CI e higiene de segurança.
+- [rag-eval-dashboard](https://github.com/jpguti01/rag-eval-dashboard): dashboard local de avaliação RAG com documentos sintéticos, métricas de retrieval e groundedness.
+- [agent-skills-starter-kit](https://github.com/jpguti01/agent-skills-starter-kit): kit inicial para criação e validação de Agent Skills reutilizáveis.
+
+Também estudo e mantenho repositórios ligados a **Agent Skills**, **automação com LLMs**, **segurança para agentes** e ferramentas de desenvolvimento assistido por IA, como [skills](https://github.com/jpguti01/skills), [security-skill](https://github.com/jpguti01/security-skill), [claude-mem](https://github.com/jpguti01/claude-mem), [openclaude](https://github.com/jpguti01/openclaude) e [design-motion-principles](https://github.com/jpguti01/design-motion-principles).
 
 ---
 
