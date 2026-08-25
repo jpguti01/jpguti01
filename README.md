@@ -39,11 +39,11 @@ Git, GitHub, GitHub Actions, VS Code, testes automatizados, documentação técn
 
 ### Agent Security Studio
 
-[Agent Security Studio](https://github.com/jpguti01/agent-security-studio) é meu projeto flagship de **AI Engineering**: um estúdio web para testar agentes antes de produção, combinando segurança de LLMs, aprovação de ferramentas, avaliação RAG, traces e auditoria de repositórios GitHub.
+[Agent Security Studio](https://github.com/jpguti01/agent-security-studio) é meu projeto flagship de **AI Engineering**: um estúdio web multilíngue para testar agentes antes de produção, combinando segurança de LLMs, aprovação de ferramentas, avaliação RAG, traces e auditoria de repositórios GitHub.
 
 - Demo pública: [jpguti01.github.io/agent-security-studio](https://jpguti01.github.io/agent-security-studio/)
 - Stack: **React**, **TypeScript**, **Vite**, **Vitest**, **GitHub Actions** e **GitHub Pages**
-- Foco: agent security, prompt injection, tool calling, RAG evaluation, observability e portfólio profissional
+- Foco: agent security, prompt injection, tool calling, RAG evaluation, observability, PT/EN/ES e portfólio profissional
 
 ### Apexy
 
